@@ -8,3 +8,4 @@ The Cycles taken by different types of Instructions are mentioned below:
 The FSM followed by Controller for each instruction is as follows:
 ![alt text](https://github.com/nikhilgurjar02/Multi-Cycle-Processor/blob/main/multicycle_path_FSM.png)
 
+![alt text](https://github.com/nikhilgurjar02/Multi-Cycle-Processor/blob/main/Controller_FSM.png)
